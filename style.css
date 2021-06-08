@@ -1,0 +1,14 @@
+canvas{
+
+    border: 1px solid black;
+
+}
+#button{
+
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+
+}
